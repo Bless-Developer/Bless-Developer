@@ -14,6 +14,7 @@ Página dedicada ao artista independente Enygma, criada como projeto de estudo e
 🔗 [Acesse o projeto](https://bless-developer.github.io/Enygma-Project/)
 
 📂 [Repositório](https://github.com/Bless-Developer/Enygma-Project)
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
