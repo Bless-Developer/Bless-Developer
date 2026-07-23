@@ -44,4 +44,4 @@ Página dedicada ao artista independente Enygma, criada como projeto de estudo e
 ---
 
 ## 📫 Contato
-- Email: [wastoggezz@gmail.com](mailto:wastoggezz@gmail.com)
+- Email: wastoggezz@gmail.com
