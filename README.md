@@ -1,4 +1,4 @@
-# Olá, eu sou Bless 👋
+# Olá, eu sou Cassandra 👋
 
 Estudante autodidata de Desenvolvimento Front-End, focada em construir projetos práticos e desenvolver uma base sólida em desenvolvimento web.
 Atualmente estou aprimorando minhas habilidades em HTML, CSS e JavaScript, aplicando conceitos de estruturação, estilização, responsividade e organização de código através de projetos próprios.
