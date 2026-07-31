@@ -15,6 +15,14 @@ Página dedicada ao artista independente Enygma, criada como projeto de estudo e
 
 📂 [Repositório](https://github.com/Bless-Developer/Enygma-Project)
 
+### 🎵 Music Player Concept
+
+Um player de música desenvolvido para praticar a integração entre HTML, CSS e JavaScript.
+
+🔗 [Acesse o projeto](https://bless-developer.github.io/Music-Player-Concept/)
+
+📂 [Repositório](https://github.com/Bless-Developer/Music-Player-Concept)
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
