@@ -28,7 +28,7 @@ Um player de música desenvolvido para praticar a integração entre HTML, CSS e
 ## 🛠️ Tecnologias e ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,javascript" />
 </div>
 
 ---
