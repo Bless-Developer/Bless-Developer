@@ -1,27 +1,13 @@
-# Olá, eu sou Cassandra 👋
+# Olá, eu sou Luis
 
-Estudante autodidata de Desenvolvimento Front-End, focada em construir projetos práticos e desenvolver uma base sólida em desenvolvimento web.
+Estudante autodidata de Desenvolvimento Front-End, focado em construir projetos práticos e desenvolver uma base sólida em desenvolvimento web.
 Atualmente estou aprimorando minhas habilidades em HTML, CSS e JavaScript, aplicando conceitos de estruturação, estilização, responsividade e organização de código através de projetos próprios.
 
 ---
 
 ## 🚀 Projetos
 
-### 🎵 Enygma Project
 
-Página dedicada ao artista independente Enygma, criada como projeto de estudo em desenvolvimento Front-End.
-
-🔗 [Acesse o projeto](https://bless-developer.github.io/Enygma-Project/)
-
-📂 [Repositório](https://github.com/Bless-Developer/Enygma-Project)
-
-### 🎵 Music Player Concept
-
-Um player de música desenvolvido para praticar a integração entre HTML, CSS e JavaScript.
-
-🔗 [Acesse o projeto](https://bless-developer.github.io/Music-Player-Concept/)
-
-📂 [Repositório](https://github.com/Bless-Developer/Music-Player-Concept)
 
 ---
 
